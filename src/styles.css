@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: ghostwhite;
+}
+.gyvunai{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gyvunai img{
+  width: 500px;
+}
